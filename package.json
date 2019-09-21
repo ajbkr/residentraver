@@ -1,0 +1,28 @@
+{
+  "name": "residentraver",
+  "version": "1.0.0",
+  "description": "Impact is an HTML5 Game Engine. More info & documentation: http://impactjs.com/",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "lint": "standard 'lib/game/**/*.js' lib/impact/system.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajbkr/residentraver.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ajbkr/residentraver/issues"
+  },
+  "homepage": "https://github.com/ajbkr/residentraver#readme",
+  "private": true,
+  "devDependencies": {
+    "standard": "^14.3.1"
+  }
+}
