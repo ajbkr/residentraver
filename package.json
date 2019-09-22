@@ -8,6 +8,7 @@
   },
   "scripts": {
     "lint": "standard 'lib/game/**/*.js' lib/impact/system.js",
+    "start": "php -S localhost:8000",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
