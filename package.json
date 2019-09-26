@@ -28,7 +28,7 @@
   },
   "standard": {
     "ignore": [
-      "lib/game/level/**/*.js"
+      "lib/game/levels/**/*.js"
     ]
   }
 }
